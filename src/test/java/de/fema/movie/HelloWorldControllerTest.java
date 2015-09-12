@@ -1,7 +1,7 @@
-package movie;
+package de.fema.movie;
 
 import junit.framework.TestCase;
-import movie.web.HelloWorldController;
+import de.fema.movie.web.HelloWorldController;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

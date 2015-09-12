@@ -1,4 +1,4 @@
-package movie.domain;
+package de.fema.movie.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

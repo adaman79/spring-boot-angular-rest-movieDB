@@ -1,4 +1,4 @@
-package movie.domain;
+package de.fema.movie.domain;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;

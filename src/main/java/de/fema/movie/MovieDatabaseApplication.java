@@ -1,7 +1,7 @@
-package movie;
+package de.fema.movie;
 
-import movie.domain.Movie;
-import movie.domain.MovieRepository;
+import de.fema.movie.domain.Movie;
+import de.fema.movie.domain.MovieRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,4 +1,4 @@
-package movie.domain;
+package de.fema.movie.domain;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.PagingAndSortingRepository;

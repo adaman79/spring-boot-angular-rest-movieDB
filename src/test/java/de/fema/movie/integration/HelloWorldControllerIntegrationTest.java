@@ -1,6 +1,6 @@
-package movie.integration;
+package de.fema.movie.integration;
 
-import movie.MovieDatabaseApplication;
+import de.fema.movie.MovieDatabaseApplication;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
