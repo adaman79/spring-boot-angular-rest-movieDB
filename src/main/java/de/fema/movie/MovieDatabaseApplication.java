@@ -52,6 +52,8 @@ public class MovieDatabaseApplication implements CommandLineRunner {
         // fetch customers by last name
         System.out.println("Movie found with findByName('Terminator'):");
         System.out.println("--------------------------------------------");
-        repository.findByName("Terminator").forEach(System.out::println);
+        for (Movie mv : repository.findByName("Terminator")) {
+            System.out.println(mv.toString());
+        }
     }
 }
